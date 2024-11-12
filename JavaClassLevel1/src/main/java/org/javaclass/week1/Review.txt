@@ -1,0 +1,7 @@
+Last week we went over:
+Installation
+The main method
+The class path
+
+
+

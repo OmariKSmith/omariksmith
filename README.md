@@ -1,10 +1,12 @@
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1>Welcome visitors, I'm Omari <br/><a href="https://www.linkedin.com/in/omari-smith-529746302">Certified Java Programmer</a>, <a href="https://www.linkedin.com/in/omari-smith-529746302/">Java Tutor</a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Dev-blue" />
-  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Git%20%7C%20Node.js-green" />
-  <img src="https://img.shields.io/badge/Location-Chicago-orange" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Fullstack-blue" />
+  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20Boot%20%7C%20React-green" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange" />
+  <img src="https://img.shields.io/badge/Location-Chicago-red" />
 </p>
+
 
 ---
 

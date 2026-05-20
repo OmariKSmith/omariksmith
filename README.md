@@ -13,7 +13,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **YAML based Cross-Platform AI Scripting Language**
 - 🌱 I’m learning **Generative AI For Coding**
-- 💬 Ask me about **Java, Spring, SQL, EDM**
+- 💬 Ask me about **Java, Spring, SQL, ,JSON objects, EDM**
 - 📫 How to reach me: **osmith5544f@gmail.com**
 
 ---

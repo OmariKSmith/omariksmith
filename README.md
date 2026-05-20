@@ -11,10 +11,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **PROJECT NAME**
-- 🌱 I’m learning **TECHNOLOGY**
-- 💬 Ask me about **JavaScript, HTML, CSS, Git**
-- 📫 How to reach me: **your.email@example.com**
+- 🔭 I’m currently working on **YAML based Cross-Platform AI Scripting Language**
+- 🌱 I’m learning **Generative AI For Coding**
+- 💬 Ask me about **Java, Spring, SQL, EDM**
+- 📫 How to reach me: **osmith5544f@gmail.com**
 
 ---
 
